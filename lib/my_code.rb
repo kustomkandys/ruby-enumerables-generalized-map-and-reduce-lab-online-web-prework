@@ -6,5 +6,4 @@ def my_own_map(source_array)
     counter += 1 
   end
   new_source_array
- end 
 end
